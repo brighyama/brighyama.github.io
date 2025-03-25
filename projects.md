@@ -19,6 +19,22 @@ permalink: /projects/
 - Created dynamic networks representing players as nodes and passes as edges, measuring team performance, playmaking roles, and chemistry using centrality and assortativity metrics.
 - Explored network evolution across different NBA eras and its impact on team performance.
 
+### Weather Forecasting Model
+
+<div style="display: flex; gap: 15px; margin-top: 20px;">
+    <a href="https://github.com/brighyama/weather-forecast" target="_blank">
+      <button style="background-color: #6C7A89; color: white; border: none; padding: 10px 20px; 
+             border-radius: 8px; font-size: 16px; cursor: pointer; transition: 0.3s; 
+             box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);">
+        GitHub
+      </button>
+    </a>
+
+- Built a weather forecasting model using historical data to predict future weather conditions.
+- Implemented machine learning techniques, including regression models, to forecast temperature, humidity, and other variables.
+- Evaluated model accuracy and adjusted for optimal performance.
+- Designed a user interface to display forecasts and visualizations.
+
 ### Predicting Game Length of 2022 League of Legends Esports Matches using Early-Game Data
 
 <div style="display: flex; gap: 15px; margin-top: 20px;">
