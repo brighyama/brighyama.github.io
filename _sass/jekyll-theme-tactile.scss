@@ -1,5 +1,5 @@
 @import "rouge-base16-dark";
-@import url('https://fonts.googleapis.com/css?family=Chivo:900');
+@import url('https://fonts.googleapis.com/css?family=Exo+2:wght@400:900');
 
 /* http://meyerweb.com/eric/tools/css/reset/
    v2.0 | 20110126
@@ -20,7 +20,7 @@ menu, nav, output, ruby, section, summary,
 time, mark, audio, video {
 	padding: 0;
 	margin: 0;
-	font: inherit;
+  font-family: 'Exo 2', sans-serif;
 	font-size: 100%;
 	vertical-align: baseline;
 	border: 0;
@@ -51,7 +51,7 @@ table {
 
 /* LAYOUT STYLES */
 body {
-  font-family: 'Helvetica Neue', Helvetica, Arial, serif;
+  font-family: 'Exo 2', sans-serif;
   font-size: 1em;
   line-height: 1.5;
   color: #6d6d6d;
@@ -72,7 +72,7 @@ header {
 }
 
 header h1 {
-  font-family: 'Chivo', 'Helvetica Neue', Helvetica, Arial, serif;
+  font-family: 'Exo 2', sans-serif;
   font-size: 48px; font-weight: 900;
   line-height: 1.2;
   color: #303030;

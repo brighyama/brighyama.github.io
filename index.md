@@ -12,4 +12,6 @@ right_button_text: "Projects ➡️"
   <img src="/assets/images/portrait.jpg" alt="Brighten_Picture" style="width: 45%;">
 </div>
 
+<p></p>
+
 I'm a fourth-year Mathematics-Computer Science student at UC San Diego, with a minor in Data Science. My primary interest lies in machine learning theory, where I explore the mathematical foundations that drive intelligent systems.
