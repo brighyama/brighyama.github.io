@@ -3,7 +3,7 @@ title: Projects
 permalink: /projects/
 layout: default
 ---
-
+<div style="display: flex; gap: 20px;">
   <a href="../">
     <button style="background-color: #6C7A89; color: white; border: none; padding: 10px 20px; 
                    border-radius: 8px; font-size: 16px; cursor: pointer; transition: 0.3s; 
@@ -11,9 +11,7 @@ layout: default
       Home
     </button>
   </a>
-</div>
 
-<div style="display: flex; gap: 20px;">
   <a href="/work_exper/">
     <button style="background-color: #6C7A89; color: white; border: none; padding: 10px 20px; 
                    border-radius: 8px; font-size: 16px; cursor: pointer; transition: 0.3s; 
@@ -21,7 +19,7 @@ layout: default
       Work Experience
     </button>
   </a>
-
+</div>
 
 ### NBA Player Interaction Network Analysis
 
