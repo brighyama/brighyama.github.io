@@ -1,18 +1,21 @@
 ---
 title: Projects
 permalink: /projects/
+layout: default
 ---
+
+[Home](../)
+[Work Experience](/work_exper/)
 
 ### NBA Player Interaction Network Analysis
 
-<div style="display: flex; gap: 15px; margin-top: 20px;">
-    <a href="https://github.com/bbeat2782/nba-analysis" target="_blank">
-      <button style="background-color: #6C7A89; color: white; border: none; padding: 10px 20px; 
+<a href="https://github.com/bbeat2782/nba-analysis" target="_blank">
+  <button style="background-color: #6C7A89; color: white; border: none; padding: 10px 20px; 
              border-radius: 8px; font-size: 16px; cursor: pointer; transition: 0.3s; 
              box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);">
-        GitHub
-      </button>
-    </a>
+    GitHub
+  </button>
+</a>
 
 - Analyzed NBA player interactions (passes) to model team chemistry and playstyle across seasons.
 - Created dynamic networks representing players as nodes and passes as edges, measuring team performance, playmaking roles, and chemistry using centrality and assortativity metrics.
@@ -20,14 +23,13 @@ permalink: /projects/
 
 ### Weather Forecasting Model
 
-<div style="display: flex; gap: 15px; margin-top: 20px;">
-    <a href="https://github.com/brighyama/weather-forecast" target="_blank">
-      <button style="background-color: #6C7A89; color: white; border: none; padding: 10px 20px; 
+<a href="https://github.com/brighyama/LoL-prediction-model" target="_blank">
+  <button style="background-color: #6C7A89; color: white; border: none; padding: 10px 20px; 
              border-radius: 8px; font-size: 16px; cursor: pointer; transition: 0.3s; 
              box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);">
-        GitHub
-      </button>
-    </a>
+    GitHub
+  </button>
+</a>
 
 - Built a weather forecasting model using historical data to predict future weather conditions.
 - Implemented machine learning techniques, including regression models, to forecast temperature, humidity, and other variables.
@@ -36,14 +38,13 @@ permalink: /projects/
 
 ### Predicting Game Length of 2022 League of Legends Esports Matches using Early-Game Data
 
-<div style="display: flex; gap: 15px; margin-top: 20px;">
-    <a href="https://github.com/brighyama/LoL-prediction-model" target="_blank">
-      <button style="background-color: #6C7A89; color: white; border: none; padding: 10px 20px; 
+<a href="https://github.com/brighyama/LoL-data-analysis" target="_blank">
+  <button style="background-color: #6C7A89; color: white; border: none; padding: 10px 20px; 
              border-radius: 8px; font-size: 16px; cursor: pointer; transition: 0.3s; 
              box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);">
-        GitHub
-      </button>
-    </a>
+    GitHub
+  </button>
+</a>
 
 - Developed a regression model to predict the total length of 2022 League of Legends matches using early-game data (gold difference, comeback status).
 - Improved model performance from linear regression (R²: 0.185) to Random Forest Regressor (R²: 0.741) by incorporating additional features and hyperparameter tuning.
@@ -51,14 +52,14 @@ permalink: /projects/
 
 ### Competitiveness of 2022 League of Legends World Championship Matches
 
-<div style="display: flex; gap: 15px; margin-top: 20px;">
-    <a href="https://github.com/brighyama/LoL-data-analysis" target="_blank">
-      <button style="background-color: #6C7A89; color: white; border: none; padding: 10px 20px; 
-             border-radius: 8px; font-size: 16px; cursor: pointer; transition: 0.3s; 
-             box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);">
-        GitHub
-      </button>
-    </a>
+  <a href="https://github.com/brighyama/LoL-data-analysis" target="_blank">
+    <button style="background-color: #6C7A89; color: white; border: none; padding: 10px 20px; 
+            border-radius: 8px; font-size: 16px; cursor: pointer; transition: 0.3s; 
+            box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);">
+      GitHub
+    </button>
+  </a>
+
 
 - Analyzed 2022 League of Legends match data to assess if World Championship (WCS) games are more competitive than regular season games.
 - Investigated the correlation between gold difference at 15 minutes and match outcomes, finding that WCS games had similar gold differences to other competitive leagues.

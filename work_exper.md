@@ -1,7 +1,11 @@
 ---
 title: Experience
 permalink: /work_exper/
+layout: default
 ---
+
+[Home](../)
+[Projects](/projects/)
 
 ## Professional Work
 

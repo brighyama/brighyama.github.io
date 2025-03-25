@@ -2,6 +2,9 @@
 title: About Me
 ---
 
+[Work Experience](/work_exper/)
+[Projects](/projects/)
+
 ### Hi!
 
 <div style="display: flex; flex-direction: column; align-items: center;">
