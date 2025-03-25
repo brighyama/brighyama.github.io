@@ -4,8 +4,24 @@ permalink: /work_exper/
 layout: default
 ---
 
-[Home](../)
-[Projects](/projects/)
+<div style="display: flex; gap: 20px;">
+  <a href="/projects/">
+    <button style="background-color: #6C7A89; color: white; border: none; padding: 10px 20px; 
+                   border-radius: 8px; font-size: 16px; cursor: pointer; transition: 0.3s; 
+                   box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);">
+      Projects
+    </button>
+  </a>
+
+  <a href="../">
+    <button style="background-color: #6C7A89; color: white; border: none; padding: 10px 20px; 
+                   border-radius: 8px; font-size: 16px; cursor: pointer; transition: 0.3s; 
+                   box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);">
+      Home
+    </button>
+  </a>
+</div>
+
 
 ## Professional Work
 

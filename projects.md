@@ -4,8 +4,24 @@ permalink: /projects/
 layout: default
 ---
 
-[Home](../)
-[Work Experience](/work_exper/)
+  <a href="../">
+    <button style="background-color: #6C7A89; color: white; border: none; padding: 10px 20px; 
+                   border-radius: 8px; font-size: 16px; cursor: pointer; transition: 0.3s; 
+                   box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);">
+      Home
+    </button>
+  </a>
+</div>
+
+<div style="display: flex; gap: 20px;">
+  <a href="/work_exper/">
+    <button style="background-color: #6C7A89; color: white; border: none; padding: 10px 20px; 
+                   border-radius: 8px; font-size: 16px; cursor: pointer; transition: 0.3s; 
+                   box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);">
+      Work Experience
+    </button>
+  </a>
+
 
 ### NBA Player Interaction Network Analysis
 
@@ -59,7 +75,6 @@ layout: default
       GitHub
     </button>
   </a>
-
 
 - Analyzed 2022 League of Legends match data to assess if World Championship (WCS) games are more competitive than regular season games.
 - Investigated the correlation between gold difference at 15 minutes and match outcomes, finding that WCS games had similar gold differences to other competitive leagues.
