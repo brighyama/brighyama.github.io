@@ -11,7 +11,7 @@ right_button_text: "Work Experience ➡️"
 ### NBA Player Interaction Network Analysis
 
 <a href="https://github.com/bbeat2782/nba-analysis" target="_blank">
-  <button style="background-color: #6C7A89; color: white; border: none; padding: 10px 20px; 
+  <button style="background-color: #355E3B; color: white; border: none; padding: 10px 20px; 
              border-radius: 8px; font-size: 13px; cursor: pointer; transition: 0.3s; 
              box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);">
     GitHub
@@ -25,7 +25,7 @@ right_button_text: "Work Experience ➡️"
 ### Weather Forecasting Model
 
 <a href="https://github.com/brighyama/LoL-prediction-model" target="_blank">
-  <button style="background-color: #6C7A89; color: white; border: none; padding: 10px 20px; 
+  <button style="background-color: #355E3B; color: white; border: none; padding: 10px 20px; 
              border-radius: 8px; font-size: 13px; cursor: pointer; transition: 0.3s; 
              box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);">
     GitHub
@@ -40,7 +40,7 @@ right_button_text: "Work Experience ➡️"
 ### Predicting Game Length of 2022 League of Legends Esports Matches using Early-Game Data
 
 <a href="https://github.com/brighyama/LoL-data-analysis" target="_blank">
-  <button style="background-color: #6C7A89; color: white; border: none; padding: 10px 20px; 
+  <button style="background-color: #355E3B; color: white; border: none; padding: 10px 20px; 
              border-radius: 8px; font-size: 13px; cursor: pointer; transition: 0.3s; 
              box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);">
     GitHub
@@ -54,7 +54,7 @@ right_button_text: "Work Experience ➡️"
 ### Competitiveness of 2022 League of Legends World Championship Matches
 
   <a href="https://github.com/brighyama/LoL-data-analysis" target="_blank">
-    <button style="background-color: #6C7A89; color: white; border: none; padding: 10px 20px; 
+    <button style="background-color: #355E3B; color: white; border: none; padding: 10px 20px; 
             border-radius: 8px; font-size: 13px; cursor: pointer; transition: 0.3s; 
             box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);">
       GitHub
