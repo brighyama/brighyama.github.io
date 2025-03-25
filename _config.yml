@@ -1,2 +1,21 @@
+title: Brighten's Website
+
 theme: jekyll-theme-tactile
+
 author: Brighten Hayama
+
+nav_pages:
+- index.md
+- projects.md
+- work_exper.md
+
+social_links:
+  - title: "LinkedIn"
+    icon: "linkedin"
+    url: "https://www.linkedin.com/in/brighyama/"
+  - title: "GitHub"
+    icon: "github"
+    url: "https://github.com/brighyama"
+  - title: "Email"
+    icon: "envelope"
+    url: "mailto:brighyama@gmail.com"
