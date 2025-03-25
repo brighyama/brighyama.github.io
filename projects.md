@@ -2,7 +2,6 @@
 title: Projects
 permalink: /projects/
 layout: default
-description: Here are some of the projects I have worked on and what they are about!
 left_button_url: "../"
 left_button_text: "⬅️ Home"
 right_button_url: "/work_exper/"
