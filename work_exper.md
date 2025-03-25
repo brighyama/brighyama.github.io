@@ -22,6 +22,7 @@ right_button_text: "Home ➡️"
 <summary>What is DSC40A?</summary>
 DSC 40A: Theoretical Foundations of Data Science is the first course in a two-part sequence that introduces students to the mathematical principles behind data science. The course covers foundational topics in machine learning, such as empirical risk minimization, optimization, regression, classification, and discrete probability. Students develop a deep understanding of the mathematical theory that drives these techniques, while also honing their skills in creative problem-solving. Throughout the course, emphasis is placed on rigorously justifying and communicating mathematical concepts, preparing students for advanced work in data science and machine learning.
 </details>
+<p></p>
 
 ### Computer Science Tutor  
 #### UC San Diego Computer Science and Engineering Department (CSE)
@@ -35,6 +36,8 @@ DSC 40A: Theoretical Foundations of Data Science is the first course in a two-pa
 <summary>What is CSE 21?</summary>
 CSE 21: Mathematics for Algorithms and Systems covers the mathematical concepts essential for modeling and analyzing algorithms and computer systems. Key topics include counting techniques (such as inclusion-exclusion, recursive counting, and permutations/combinations), data representations, and the analysis of algorithms (including order notation, time complexities, and loop invariants). The course explores recurrence relations, graphs and trees (covering data structure representations, basic graph algorithms, and special graph classes). It is also an introduction to basic probability and its applications in algorithm design and analysis.
 </details>
+
+<p></p>
 
 ### Tutor  
 #### Kumon Math and Reading Center of Corona
