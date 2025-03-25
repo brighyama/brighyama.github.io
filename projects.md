@@ -3,9 +3,9 @@ title: Projects
 permalink: /projects/
 layout: default
 left_button_url: "../"
-left_button_text: "⬅️ Home"
+left_button_text: "← Home"
 right_button_url: "/work_exper/"
-right_button_text: "Work Experience ➡️"
+right_button_text: "Work Experience →"
 ---
 
 ### NBA Player Interaction Network Analysis

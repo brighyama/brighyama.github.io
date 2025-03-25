@@ -3,9 +3,9 @@ title: Experience
 permalink: /work_exper/
 layout: default
 left_button_url: "/projects/"
-left_button_text: "⬅️ Projects"
+left_button_text: "← Projects"
 right_button_url: "../"
-right_button_text: "Home ➡️"
+right_button_text: "Home →"
 ---
 
 ## Professional Work

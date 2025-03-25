@@ -1,9 +1,9 @@
 ---
 title: About Me
 left_button_url: "/work_exper/"
-left_button_text: "⬅️ Work Experience"
+left_button_text: "← Work Experience"
 right_button_url: "/projects/"
-right_button_text: "Projects ➡️"
+right_button_text: "Projects →"
 ---
 
 ### Hi!
