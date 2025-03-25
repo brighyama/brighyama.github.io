@@ -1,25 +1,10 @@
 ---
 title: About Me
+left_button_url: "/work_exper/"
+left_button_text: "⬅️ Work Experience"
+right_button_url: "/projects/"
+right_button_text: "Projects ➡️"
 ---
-
-<div style="display: flex; gap: 20px;">
-  <a href="/work_exper/">
-    <button style="background-color: #0066CC; color: white; border: none; padding: 10px 20px; 
-                   border-radius: 8px; font-size: 16px; cursor: pointer; transition: 0.3s; 
-                   box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);">
-      ⬅️ Work Experience
-    </button>
-  </a>
-
-  <a href="/projects/">
-    <button style="background-color: #0066CC; color: white; border: none; padding: 10px 20px; 
-                   border-radius: 8px; font-size: 16px; cursor: pointer; transition: 0.3s; 
-                   box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);">
-      Projects ➡️
-    </button>
-  </a>
-</div>
-
 
 ### Hi!
 

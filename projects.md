@@ -2,24 +2,11 @@
 title: Projects
 permalink: /projects/
 layout: default
+left_button_url: "../"
+left_button_text: "⬅️ Home"
+right_button_url: "/work_exper/"
+right_button_text: "Work Experience ➡️"
 ---
-<div style="display: flex; gap: 20px;">
-  <a href="../">
-    <button style="background-color: #0066CC; color: white; border: none; padding: 10px 20px; 
-                   border-radius: 8px; font-size: 16px; cursor: pointer; transition: 0.3s; 
-                   box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);">
-      ⬅️ Home
-    </button>
-  </a>
-
-  <a href="/work_exper/">
-    <button style="background-color: #0066CC; color: white; border: none; padding: 10px 20px; 
-                   border-radius: 8px; font-size: 16px; cursor: pointer; transition: 0.3s; 
-                   box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);">
-      Work Experience ➡️
-    </button>
-  </a>
-</div>
 
 ### NBA Player Interaction Network Analysis
 

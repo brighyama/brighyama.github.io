@@ -21,7 +21,29 @@
         <header>
           <h1>{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
           <h2>{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
-        </header>
+        
+          <div style="display: flex; gap: 20px;">
+            {% if page.left_button_url and page.left_button_text %}
+              <a href="{{ page.left_button_url }}">
+                <button style="background-color: #0066CC; color: white; border: none; padding: 10px 20px; 
+                               border-radius: 8px; font-size: 16px; cursor: pointer; transition: 0.3s; 
+                               box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);">
+                  {{ page.left_button_text }}
+                </button>
+              </a>
+            {% endif %}
+        
+            {% if page.right_button_url and page.right_button_text %}
+              <a href="{{ page.right_button_url }}">
+                <button style="background-color: #0066CC; color: white; border: none; padding: 10px 20px; 
+                               border-radius: 8px; font-size: 16px; cursor: pointer; transition: 0.3s; 
+                               box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);">
+                  {{ page.right_button_text }}
+                </button>
+              </a>
+            {% endif %}
+          </div>
+        </header>        
         <section id="downloads" class="clearfix">
           {% if site.show_downloads %}
           <a href="{{ site.github.zip_url }}" id="download-zip" class="button"><span>Download .zip</span></a>
