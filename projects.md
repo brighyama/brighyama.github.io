@@ -22,20 +22,10 @@ right_button_text: "Work Experience →"
 - Created dynamic networks representing players as nodes and passes as edges, measuring team performance, playmaking roles, and chemistry using centrality and assortativity metrics.
 - Explored network evolution across different NBA eras and its impact on team performance.
 
-### Weather Forecasting Model
-
-<a href="https://github.com/brighyama/LoL-prediction-model" target="_blank">
-  <button style="background-color: #355E3B; color: white; border: none; padding: 10px 20px; 
-             border-radius: 8px; font-size: 13px; cursor: pointer; transition: 0.3s; 
-             box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);">
-    GitHub
-  </button>
-</a>
-
-- Built a weather forecasting model using historical data to predict future weather conditions.
-- Implemented machine learning techniques, including regression models, to forecast temperature, humidity, and other variables.
-- Evaluated model accuracy and adjusted for optimal performance.
-- Designed a user interface to display forecasts and visualizations.
+### Nano Type Inference
+- Implemented Algorithm W for type inference in `Nano', a miniature \textbf{Haskell}-based language
+- Designed type environment, unification, and substitution logic according to Hindley-Milner type systems
+- Collaborated in a 4-person team to integrate independent Nano modules (pattern matching, parser, REPL)
 
 ### Predicting Game Length of 2022 League of Legends Esports Matches using Early-Game Data
 
