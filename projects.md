@@ -23,7 +23,7 @@ right_button_text: "Work Experience →"
 - Explored network evolution across different NBA eras and its impact on team performance.
 
 ### Nano Type Inference
-- Implemented Algorithm W for type inference in `Nano', a miniature \textbf{Haskell}-based language
+- Implemented Algorithm W for type inference in `Nano', a miniature Haskell-based language
 - Designed type environment, unification, and substitution logic according to Hindley-Milner type systems
 - Collaborated in a 4-person team to integrate independent Nano modules (pattern matching, parser, REPL)
 
