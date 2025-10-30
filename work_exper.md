@@ -14,7 +14,8 @@ right_button_text: "Home →"
 #### UC San Diego
 **Sep 2023 – Jun 2025**  
 
-- Served as official course tutor for the following courses: (CSE 21) Mathematics for Algorithms/Systems, (DSC 40A) Theoretical Foundations of Data Science, (CSE 151A) Intro to Supervised Machine Learning, (MATH 173A) Optimization Methods for Data Science, (MATH 180B) Stochastic Processes
+- Served as official course tutor for the following courses: (CSE 21) Mathematics for Algorithms/Systems, (DSC 40A) Theoretical Foundations of Data Science, (CSE 151A) Intro to Supervised Machine Learning
+- Served as a reader for (MATH 173A) Optimization Methods for Data Science, (MATH 180B) Stochastic Processes
 - Collaborated with professors to teach and reinforce key concepts in algorithm analysis, probability, and machine learning
 - Led office hours and review sessions for groups of up to 15 students, clarifying algorithm runtimes, combinatorics, graph theory, optimization, regression, and classification to strengthen student problem-solving skills
 - Enhanced student preparation for exams by contributing to the [DSC 40A practice site](https://practice.dsc40a.com/), writing detailed explanations for Summer Session 2024 past midterm and final
@@ -46,6 +47,7 @@ MATH 173A: Optimization Methods for Data Science I gives an introduction to conv
 MATH 180B: Introduction to Stochastic Processes I includes random vectors, multivariate densities, covariance matrix, multivariate normal distribution, Random walk, Poisson process, Markov chains  
 </details>
 
+<p></p>
 
 ### Software Engineer Intern
 #### San Diego Supercomputer Center
